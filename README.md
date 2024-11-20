@@ -57,15 +57,21 @@ Ensure the file path is correctly set before running the notebook.
 # How to Run
 1. Clone the repository:
 
-```git clone <repository_url>```
+```
+git clone <repository_url>
+```
 
 2. Navigate to the project directory:
 
-```cd <project_directory>```
+```
+cd <project_directory>
+```
 
 3. Run the Jupyter Notebook:
 
-```jupyter notebook eda-and-visualizing-shopping-dataset.ipynb```
+```
+jupyter notebook eda-and-visualizing-shopping-dataset.ipynb
+```
 
 
 # Acknowledgments

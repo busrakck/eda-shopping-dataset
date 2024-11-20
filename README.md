@@ -29,7 +29,9 @@ pip install pandas numpy seaborn matplotlib scipy scikit-learn
 Dataset
 The dataset used in this project is loaded from a CSV file:
 
-```/kaggle/input/online-shopping-dataset/file.csv```
+```
+/kaggle/input/online-shopping-dataset/file.csv
+```
 
 Ensure the file path is correctly set before running the notebook.
 

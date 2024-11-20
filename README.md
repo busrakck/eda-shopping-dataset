@@ -21,7 +21,7 @@ Make sure the following Python libraries are installed:
 
 Install them using pip: 
 
-```bash
+```
 pip install pandas numpy seaborn matplotlib scipy scikit-learn
 ```
 

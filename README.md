@@ -2,7 +2,7 @@
 ## Project Overview
 This project, completed as part of the Aygaz Data Processing Bootcamp, focuses on exploratory data analysis (EDA) and visualizing trends within an online shopping dataset. The workflow involves preprocessing data, handling missing values, and creating meaningful visualizations to extract insights.
 
-Kaggle: https://www.kaggle.com/code/mustafagulhan/eda-and-visualizing-shopping-dataset
+[kaggle](https://www.kaggle.com/code/mustafagulhan/eda-and-visualizing-shopping-dataset)
 ## Features
 - Cleaning and preparing the dataset for analysis.
 - Adding and handling random missing values.

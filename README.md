@@ -21,7 +21,7 @@ Make sure the following Python libraries are installed:
 
 Install them using pip: 
 
-<pre> ```bash pip install pandas numpy seaborn matplotlib scipy scikit-learn ``` </pre>
+<pre> ```shell pip install pandas numpy seaborn matplotlib scipy scikit-learn ``` </pre>
 
 Dataset
 The dataset used in this project is loaded from a CSV file:
